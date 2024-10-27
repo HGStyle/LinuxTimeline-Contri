@@ -198,7 +198,7 @@
 "N","Moblin","#3366bb","Ubuntu","2007.7","2008.8",,"https://distroware.gitlab.io/os/Linux/m/moblin",,,,,,,,,
 "#N","gOS","#60b384","Ubuntu","2007.11.1","2009.1.3",,"http://www.thinkgos.com/",,,,,,,,,
 "N","Eeebuntu","#669ad0","Ubuntu","2007.12","2015.03.05",,"https://distroware.gitlab.io/os/Linux/a/aurora-os","Aurora OS","2010.6","https://distroware.gitlab.io/os/Linux/a/aurora-os",,,,,,
-"N","CrunchBang","#000","Ubuntu","2008.1.22",,,"https://distroware.gitlab.io/os/Linux/c/crunchbang","Bunsen Labs","2015.02.16","https://distroware.gitlab.io/os/Linux/b/bunsen-labs",,,,,,
+"N","CrunchBang","#000","Debian","2008.1.22",,,"https://distroware.gitlab.io/os/Linux/c/crunchbang","Bunsen Labs","2015.02.16","https://distroware.gitlab.io/os/Linux/b/bunsen-labs",,,,,,
 "N","CrunchBang plus plus","#333","CrunchBang","2015.2.15",,,"https://distroware.gitlab.io/os/Linux/c/crunchbang++",,,,,,,,,
 "N","Zebuntu","#c8ff00","Ubuntu","2008.2.15","2018.01.1",,"https://distroware.gitlab.io/os/Linux/z/zevenos","ZevenOS","2008.12.19","https://distroware.gitlab.io/os/Linux/z/zevenos",,,,,,
 "N","Ubuntu Rescue Remix","#ddaa11","Ubuntu","2008.3.6","2015.04.26",,"https://distroware.gitlab.io/os/Linux/u/ubuntu-rescue-remix",,,,,,,,,
